@@ -48,6 +48,7 @@ Status ListInsert(LinkList *L,int i, int e){
 		return 1;
 	}
 
+	
 
 	return 1;
 }
